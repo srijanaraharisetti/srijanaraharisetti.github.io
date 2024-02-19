@@ -1,4 +1,4 @@
-# mharish27.github.io
+# srijanaraharisetti.github.io
 
 <h2>Reference</h2>
-referenced the code from https://github.com/codewithsadee/vcard-personal-portfolio
+referenced the code from https://github.com/mharish27/mharish27.github.io
